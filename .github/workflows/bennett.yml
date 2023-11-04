@@ -37,4 +37,4 @@ jobs:
         tags: v1, latest
         registry: docker.io
         username: ${{ secrets.GAGAN_PAL_BENNETT }}
-        password: ${{ secrets.GAGAN_PAL_BENNETT_01 }}
+        password: ${{ secrets.GAGAN_PAL_BENNETT_01 }} 
